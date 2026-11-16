@@ -9,6 +9,7 @@ build/
 __pycache__/
 *.pyc
 .pytest_cache/
+out.json
 
 # Configuration locale et secrets
 .env
