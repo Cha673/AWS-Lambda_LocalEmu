@@ -1,0 +1,15 @@
+# Environnements virtuels
+venv/
+.venv/
+localemu-env/
+
+# Fichiers générés
+build/
+*.zip
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Configuration locale et secrets
+.env
+.env.*
